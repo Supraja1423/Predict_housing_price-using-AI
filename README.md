@@ -1,1 +1,1 @@
-# Predict_housing_price-using-AI
+# Predict-housing-price-using-AI
